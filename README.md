@@ -16,3 +16,5 @@ Project 3 - Skin detection
 Project 4 - Basic noise manipulation and analysis
 
 Project 5 - Saliency Map analysis
+
+Final Project - Port Detection (Detecting ports on the back of computers, TVs, etc.)
